@@ -6,17 +6,17 @@ Hello all.<br>
 ## Interests
 ### Art
 
-<div style="display: flex; justify-content: space-around;">
-  <img src="https://github.com/user-attachments/assets/196bec71-dc75-4f1b-8c30-5202dd04baa4" alt="TV" style="width: 33%">
-  <img src="https://github.com/user-attachments/assets/132c3a74-1c1a-46f2-8c1c-327ace893324" alt="Where" style="width: 33%">
-  <img src="https://github.com/user-attachments/assets/4cd99bf5-c153-4f64-a851-dce78989ab28" alt="crop2" style="width: 33%">
+<div justify-content: space-around;">
+  <img src="https://github.com/user-attachments/assets/196bec71-dc75-4f1b-8c30-5202dd04baa4" alt="TV" style="width: 32%">
+  <img src="https://github.com/user-attachments/assets/132c3a74-1c1a-46f2-8c1c-327ace893324" alt="Where" style="width: 32%">
+  <img src="https://github.com/user-attachments/assets/4cd99bf5-c153-4f64-a851-dce78989ab28" alt="crop2" style="width: 32%">
 </div>
 
 ### Animation
 [![Where'd he go?](https://img.youtube.com/vi/2fkQxRnElQI/0.jpg)](https://www.youtube.com/watch?v=2fkQxRnElQI)
 
 ### Code
-<img src="https://github.com/user-attachments/assets/50a9c876-5851-4001-bd50-ec4c9edb222e" alt="Code Snippet" height="320">
+<img src="https://github.com/user-attachments/assets/50a9c876-5851-4001-bd50-ec4c9edb222e" alt="Code Snippet" style="width: 75%">
 <br><br>
 
 ## Projects

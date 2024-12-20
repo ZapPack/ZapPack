@@ -7,9 +7,9 @@ Hello all.<br>
 ### Art
 
 <div style="display: flex; justify-content: space-around;">
-  <img src="https://github.com/user-attachments/assets/196bec71-dc75-4f1b-8c30-5202dd04baa4" alt="TV" height="256">
-  <img src="https://github.com/user-attachments/assets/132c3a74-1c1a-46f2-8c1c-327ace893324" alt="Where" height="256">
-  <img src="https://github.com/user-attachments/assets/4cd99bf5-c153-4f64-a851-dce78989ab28" alt="crop2" height="256">
+  <img src="https://github.com/user-attachments/assets/196bec71-dc75-4f1b-8c30-5202dd04baa4" alt="TV" style="width: 33%">
+  <img src="https://github.com/user-attachments/assets/132c3a74-1c1a-46f2-8c1c-327ace893324" alt="Where" style="width: 33%">
+  <img src="https://github.com/user-attachments/assets/4cd99bf5-c153-4f64-a851-dce78989ab28" alt="crop2" style="width: 33%">
 </div>
 
 ### Animation
@@ -24,10 +24,10 @@ Hello all.<br>
 This is my longest running, and most involved project. It's a Minecraft resource pack that is meant to restore the look of the game's textures back to their pre-Texture Update counterparts while emulating the _style_ of the new textures.<br>
 
 <div style="display: flex; justify-content: space-around;">
-  <img src="https://github.com/user-attachments/assets/a3473ec0-7f5f-4c31-b805-c3872bf123b9" alt="FTU Sand" width="384">
-  <img src="https://github.com/user-attachments/assets/d256f789-a961-400d-a864-0bb91fe99ddc" alt="FTU Cobble and Misc Things" width="384">
-  <img src="https://github.com/user-attachments/assets/70f7e525-d853-44da-9f68-1d1149a49a16" alt="FTU Gem Blocks" width="384">
-  <img src="https://github.com/user-attachments/assets/92e8771f-11f5-4e9b-b93f-dcffb2f630da" alt="FTU Nether" width="384">
+  <img src="https://github.com/user-attachments/assets/a3473ec0-7f5f-4c31-b805-c3872bf123b9" alt="FTU Sand" style="width: 49%">
+  <img src="https://github.com/user-attachments/assets/d256f789-a961-400d-a864-0bb91fe99ddc" alt="FTU Cobble and Misc Things" style="width: 49%">
+  <img src="https://github.com/user-attachments/assets/70f7e525-d853-44da-9f68-1d1149a49a16" alt="FTU Gem Blocks" style="width: 49%">
+  <img src="https://github.com/user-attachments/assets/92e8771f-11f5-4e9b-b93f-dcffb2f630da" alt="FTU Nether" style="width: 49%">
 </div>
 
 [See it for yourself.](https://github.com/ZapPack/Familiar-Texture-Update/)
